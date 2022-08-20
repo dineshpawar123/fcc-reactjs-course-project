@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fcc-reactjs-course-project/static/css/main.a03b7073.css",
+    "main.js": "/fcc-reactjs-course-project/static/js/main.99fef134.js",
+    "static/js/787.db9717a9.chunk.js": "/fcc-reactjs-course-project/static/js/787.db9717a9.chunk.js",
+    "static/media/quote.webp": "/fcc-reactjs-course-project/static/media/quote.e7ecb9ce7b89e7c826b9.webp",
+    "static/media/rainbow.gif": "/fcc-reactjs-course-project/static/media/rainbow.44249dcb20e9d77acad5.gif",
+    "static/media/sky1.jpg": "/fcc-reactjs-course-project/static/media/sky1.e75e0db51e4860384400.jpg",
+    "static/media/rocket.gif": "/fcc-reactjs-course-project/static/media/rocket.274b60e5e1e61349cdd1.gif",
+    "static/media/sky2.jpg": "/fcc-reactjs-course-project/static/media/sky2.865857b3e2c51ce9134a.jpg",
+    "static/media/crude.jpeg": "/fcc-reactjs-course-project/static/media/crude.73d1d2b1ee725cdb148c.jpeg",
+    "static/media/rocketnew1.png": "/fcc-reactjs-course-project/static/media/rocketnew1.3818a7a8269aeda365b2.png",
+    "static/media/calculator.webp": "/fcc-reactjs-course-project/static/media/calculator.9461eec34b5b1b9ad783.webp",
+    "index.html": "/fcc-reactjs-course-project/index.html",
+    "main.a03b7073.css.map": "/fcc-reactjs-course-project/static/css/main.a03b7073.css.map",
+    "main.99fef134.js.map": "/fcc-reactjs-course-project/static/js/main.99fef134.js.map",
+    "787.db9717a9.chunk.js.map": "/fcc-reactjs-course-project/static/js/787.db9717a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03b7073.css",
+    "static/js/main.99fef134.js"
+  ]
+}
